@@ -1,7 +1,7 @@
 # Личный проект «Большое путешествие» [![Build status][travis-image]][travis-url]
 
 * Студент: [Елизавета Винокурова](https://up.htmlacademy.ru/ecmascript/11/user/123355).
-* Наставник: `Неизвестно`.
+* Наставник: [Владимир Коршунов](https://up.htmlacademy.ru/ecmascript/11/user/83596).
 
 ---
 
