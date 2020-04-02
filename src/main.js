@@ -344,7 +344,7 @@ render(contentElement, createAddOrEditTemplate());
 render(contentElement, createContentListTemplate());
 
 const contentList = contentElement.querySelector(`.trip-days`);
-render(contentList, createContentItemTemplate(EVENT_POINTS_QUANTITY));
+render(contentList, createContentItemTemplate());
 
 const contentEventsList = contentList.querySelector(`.trip-events__list`);
 for (let i = 0; i < EVENT_POINTS_QUANTITY; i++) {
